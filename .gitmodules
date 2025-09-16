@@ -1,3 +1,6 @@
 [submodule "frontend-flight-insurance-stellar"]
 	path = frontend-flight-insurance-stellar
 	url = https://github.com/vhendala/frontend-flight-insurance-stellar
+[submodule "backend-flight-insurance-stellar"]
+	path = backend-flight-insurance-stellar
+	url = https://github.com/vhendala/backend-flight-insurance-stellar.git
